@@ -1,5 +1,5 @@
 /* 
- * https://github.com/lic2870/JSBox/TextSync
+ * https://github.com/lic2870/JSBox
  * @version 1.0
  * @date 2018.8.2
  * @note

@@ -1,5 +1,5 @@
 /* 
- * https://github.com/lic2870/JSBox/SwitchShadowrocketVPN
+ * https://github.com/lic2870/JSBox
  *@version 1.0
  *@author lic2870
  *@date 2018.8.3
